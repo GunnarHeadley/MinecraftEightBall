@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.30",
+  "minecraft:block": {
+    "description": {
+      "identifier": "eightball:eightball"
+    },
+    "components": {
+      "minecraft:geometry": "geometry.eightball",
+      "minecraft:material_instances": {
+        "face": {
+          "texture": "face"
+        },
+        "black": {
+          "texture": "black"
+        }
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 1
+      }
+    }
+  }
+}

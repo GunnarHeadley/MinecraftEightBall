@@ -1,0 +1,10 @@
+{
+  "texture_data": {
+    "black": {
+      "textures": "textures/blocks/black"
+    },
+    "face": {
+      "textures": "textures/blocks/face"
+    }
+  }
+}
